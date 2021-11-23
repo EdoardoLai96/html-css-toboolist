@@ -62,8 +62,17 @@ main{
 }
 
 .task{
-    margin-top: 2.75%;
+    margin-top: 2.5%;
     margin-left: 5%;
+    background-color: #46adf1;
+    color: white;
+}
+
+button{
+    padding: 5px;
+    font-size: 10px;
+    border-radius: 5px;
+    border:white
 }
 
 
