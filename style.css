@@ -37,7 +37,18 @@ main{
     width: 100%;
     background-color: #F6F8F9;
     height: 1000px;
-    
+    padding-top: 5%;
+    padding-bottom:3%;
+
+
 }
 
+main > div {
+    width: 75%;
+    height: 950px;
+    background: white;
+    margin: auto;
+
+
+}
 /* fine  main  */
