@@ -76,13 +76,61 @@ button{
     border:white
 }
 
-.task-completo h2{
+.titolo-categoria h2{
     display: inline-block;
     font-size: 17px;
+    margin-bottom: 8px;
 }
 
-.task-completo span{
-    font-size: 12px;
+.titolo-categoria{
+    margin-bottom: 15px;
+    padding-top: 30px;
 }
 
+.simbolo{
+    color: #7ccbb9;
+    border: 1px solid #7ccbb9;
+    border-radius: 50%;
+    padding-left: 3px;
+    padding-right: 3px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.incompleto{
+    color: red;
+    border: 1px solid red;
+    border
+}
+
+.item{
+    margin-bottom: 19px;
+}
+
+.tag{
+    color: white;
+    font-size: 9px;
+    border-radius: 20px;
+    padding: 7px;
+    vertical-align: middle;
+}
+
+.editorial {
+    background-color: #46adf1;
+}
+
+.goals{
+    background-color: #9c72e4;
+}
+
+.recruiting{
+    background-color: #64c0a9;
+
+}
+
+.mobile{
+    background-color: #f3a53e;
+
+}
 /* fine  main  */
