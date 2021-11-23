@@ -48,7 +48,13 @@ main > div {
     height: 950px;
     background: white;
     margin: auto;
+    border-radius: 10px;
+    
+}
 
+.contenitore-bottoni{
 
 }
+
+
 /* fine  main  */
