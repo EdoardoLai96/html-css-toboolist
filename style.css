@@ -13,7 +13,7 @@
 /* header  */
 
 header{
-    height: 70px;
+    height: 10vh;
 }
 
 header div{
@@ -37,7 +37,7 @@ font-size: 40px;
 main{
     width: 100%;
     background-color: #F6F8F9;
-    height: 1000px;
+    height: 90vh;
     padding-top: 5%;
     padding-bottom: 5%;
     
@@ -52,39 +52,55 @@ main{
     border-bottom: 10px;
     margin: auto;
     margin-bottom: 3px;
+    padding-left: 41px;
+    padding-top: 20px;
 }
 
 
 .contenitore-task {
     width: 75%;
-    height: 880px;
+    height: 70vh;
     background: white;
     margin: auto;
+    padding-left: 41px;
 }
 
-.btn-task{
-    margin-top: 2.5%;
-    margin-left: 5%;
-    background-color: #46adf1;
-    color: white;
-}
+
 
 button{
     padding: 5px;
     font-size: 10px;
     border-radius: 5px;
-    border:white
 }
 
-.titolo-categoria h2{
+.btn-task{
+    color: white;
+    background-color: #46adf1;
+    border: 1px solid #46adf1;
+   
+
+}
+
+.btn-section{
+    background-color: white;
+    border: 1px solid #d4d8dc;
+    color: #d4d8dc;
+
+}
+
+.section h2{
     display: inline-block;
     font-size: 17px;
     margin-bottom: 8px;
 }
 
-.titolo-categoria{
+.section{
     margin-bottom: 15px;
     padding-top: 30px;
+}
+
+.triangolo{
+    font-size: 11px;
 }
 
 .simbolo{
@@ -104,7 +120,7 @@ button{
     border
 }
 
-.item{
+.task{
     margin-bottom: 19px;
 }
 
@@ -133,4 +149,15 @@ button{
     background-color: #f3a53e;
 
 }
+
+.website{
+    background-color: #d864a1;
+
+}
+
+.sales{
+    background-color: #b0c926;
+    
+}
+
 /* fine  main  */
