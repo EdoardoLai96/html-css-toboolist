@@ -14,13 +14,15 @@
 
 header{
     height: 10vh;
+    line-height: 10vh;
+}
+
+img{
+    vertical-align: middle;
 }
 
 header div{
-    height: 50px;
-    position: relative;
     margin-left: 15px;
-    padding-top: 8px;
 }
 
 header h1{
@@ -39,7 +41,7 @@ main{
     background-color: #F6F8F9;
     height: 90vh;
     padding-top: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 2% ;
     
 
 }
@@ -48,12 +50,13 @@ main{
     width: 75%;
     background: white;
     border-radius: 10px 10px 0 0;
-    height: 50px;
+    height: 7vhh;
     border-bottom: 10px;
     margin: auto;
     margin-bottom: 3px;
     padding-left: 41px;
     padding-top: 20px;
+    padding-bottom: 5px;
 }
 
 
@@ -69,7 +72,7 @@ main{
 
 button{
     padding: 5px;
-    font-size: 10px;
+    font-size: 15px;
     border-radius: 5px;
 }
 
